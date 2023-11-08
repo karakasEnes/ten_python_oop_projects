@@ -1,0 +1,25 @@
+# What is this repo is about?
+
+- This is 10 python projects ( basic, intermediate, advance) to understand better, OOP concept also to build projects.
+- Projects are sorted from basic to advance.
+- Projects interaction based on CLI, GUI, and WebApp.
+
+# Can I try them using Live Version?
+
+- If it's possible I provide live version for each of them. You can view their source code also from replit. Keep in mind running projects on local vs live version sometimes can be little different. (Eg: turtle library visibiality, Replit env variables issues). However mostly it will work just fine.
+
+- My recommendation is follow README's and try them locally, since all projects are ready to run.
+
+# Notes:
+
+- Each projects has it's own README file, if you need more information about indivial project, you should read correspoding files.
+
+# Live Links:
+
+- App 1: Geometry Game (CLI based)
+
+  - Live Link: https://replit.com/@shareCodeCamp/geometrygame
+
+- App 2: Flatmates House Rent Calculator (CLI based)
+
+  - Live Link: https://replit.com/@shareCodeCamp/flatmates

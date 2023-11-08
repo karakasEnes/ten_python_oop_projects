@@ -7,4 +7,4 @@
 
 # Live Version
 
-https://replit.com/@shareCodeCamp/geometrygame?embed=1
+https://replit.com/@shareCodeCamp/geometrygame
