@@ -2,7 +2,7 @@
 
 - To learn better OOP concept buy building apps.
 
-# What is this repo is about?
+# What is this repo about?
 
 - This is 10 python projects ( basic, intermediate, advance) to understand better OOP concept, also to build projects.
 - Projects are sorted from basic to advance.
